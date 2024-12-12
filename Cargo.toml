@@ -1,0 +1,4 @@
+[workspace]
+members = ["bulls_and_cows", "demo", "macro_demo", "macro_derive_demo", "solana_demo"]
+resolver = "2"
+default-members = ["demo"]
