@@ -1,4 +1,11 @@
 [workspace]
-members = ["bulls_and_cows", "demo", "macro_demo", "macro_derive_demo", "solana_demo"]
+members = [
+    "demo",
+    "learn_trait",
+    "learn_macro",
+    "learn_macro_derive",
+    "learn_borrow",
+    "learn_slice", "learn_generics",
+]
 resolver = "2"
 default-members = ["demo"]
