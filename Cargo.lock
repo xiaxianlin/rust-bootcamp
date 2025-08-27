@@ -11,7 +11,19 @@ name = "learn_borrow"
 version = "0.1.0"
 
 [[package]]
+name = "learn_closure"
+version = "0.1.0"
+
+[[package]]
 name = "learn_generics"
+version = "0.1.0"
+
+[[package]]
+name = "learn_iter"
+version = "0.1.0"
+
+[[package]]
+name = "learn_lifetime"
 version = "0.1.0"
 
 [[package]]
