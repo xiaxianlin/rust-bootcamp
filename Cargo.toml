@@ -5,7 +5,7 @@ members = [
     "learn_macro",
     "learn_macro_derive",
     "learn_borrow",
-    "learn_slice", "learn_generics", "learn_lifetime", "learn_closure", "learn_iter",
+    "learn_slice", "learn_generics", "learn_lifetime", "learn_closure", "learn_iter", "learn_option", "learn_result", "learn_env", "learn_fmt", "learn_io", "learn_net", "learn_process", "learn_mutex",
 ]
 resolver = "2"
 default-members = ["demo"]
